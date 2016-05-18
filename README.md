@@ -10,7 +10,7 @@ The documents contained in this repository provide all of the information requir
 
 To purchase platform parts, order the entire parts list in the indicated quantities. The list includes the basic parts, parts that make the platform more functional (spare set of batteries), and some common maintenance items. Parts are organized by supplier and color-coded based on if the part is used in the chasssis or compute box. Normally, all the parts take around 2 weeks to arrive.
 
-[note]  The most difficult component to fabricate is the compute box enclosure, which may require sending away to a local sheet metal fabrication shop if sheet metal fabrication experience and tools are not available.
+![alt text][note]  The most difficult component to fabricate is the compute box enclosure, which may require sending away to a local sheet metal fabrication shop if sheet metal fabrication experience and tools are not available.
 
 ## Included Files:
 
@@ -34,6 +34,6 @@ CAD models for components to be fabricated (most will be 3D printed).
 
 Spreadsheet of all parts required to build an AutoRally Platform. The document includes the estimated price, quantities, and link to purchase each component.
 
-[note]  The platform uses parts from about 25 suppliers.
+![alt text][note]  The platform uses parts from about 25 suppliers.
 
-[note]  Review the entire list before making any purchases as you may already havee some of the parts around such as computer monitors, spare laptops, cables, keyboard and mouse, tools, and assorted fabrication supplies. 
+![alt text][note]  Review the entire list before making any purchases as you may already havee some of the parts around such as computer monitors, spare laptops, cables, keyboard and mouse, tools, and assorted fabrication supplies. 
