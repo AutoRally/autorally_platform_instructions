@@ -6,7 +6,7 @@ The documents contained in this repository provide all of the information requir
 
 Send pictures of the AutoRally platforms you build to bgoldfain3@gatech.edu!
 
-![alt text][note] Please contact us by opening and issue or emailing if you have any questions about the instructions, parts, or any part of the build process.
+![alt text][note] Please contact us by opening an issue or emailing if you have any questions about the instructions, parts, or any part of the build process.
 
 ## Getting Started
 
