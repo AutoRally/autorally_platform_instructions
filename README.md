@@ -2,7 +2,9 @@
 
 # AutoRally Platform Instructions
 
-The documents contained in this repository provide all of the information required to contruct and operate a complete AutoRally platform. The platform is made of two primary parts, the chassis and compute box.
+![alt text](images/platformBanner.jpg "Platform image")
+
+The documents contained in this repository provide all of the information required to contruct and operate a complete AutoRally platform. The platform has two primary parts, the chassis and compute box.
 
 ![alt text][note] Please contact us by opening and issue or emailing if you have any questions about the instructions, parts, or any part of the build process.
 
