@@ -4,7 +4,7 @@
 
 ![alt text](images/platformBanner.jpg "Platform image")
 
-The documents contained in this repository provide all of the information required to contruct and operate a complete AutoRally platform. The platform has two primary parts, the chassis and compute box.
+The documents contained in this repository provide all of the information required to construct and operate a complete AutoRally platform. The platform has two primary parts, the chassis and compute box.
 
 Send pictures of the AutoRally platforms you build to bgoldfain3@gatech.edu!
 
