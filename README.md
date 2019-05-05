@@ -6,7 +6,21 @@
 
 The documents contained in this repository provide all of the information required to construct and operate a complete AutoRally platform. The platform has two primary parts, the chassis and compute box.
 
-Send pictures of the AutoRally platforms you build to bgoldfain3@gatech.edu!
+A paper detailing the platform and design decisions can be found [here](https://ieeexplore.ieee.org/abstract/document/8616931).
+
+BibTex:
+```
+@article{goldfain2019autorally,
+  title={AutoRally: An Open Platform for Aggressive Autonomous Driving},
+  author={Goldfain, Brian and Drews, Paul and You, Changxi and Barulic, Matthew and Velev, Orlin and Tsiotras, Panagiotis and Rehg, James M},
+  journal={IEEE Control Systems Magazine},
+  volume={39},
+  number={1},
+  pages={26--55},
+  year={2019},
+  publisher={IEEE}
+}
+```
 
 ![alt text][note] Please contact us by opening an issue or emailing if you have any questions about the instructions, parts, or any part of the build process.
 
